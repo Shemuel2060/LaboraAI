@@ -15,5 +15,3 @@ public class ExperimentRequest {
 	private String status; // SUCCESS, FAILED, PARTIAL
 
 }
-// JAVA_HOME='c:/Program Files/Java/jdk-25.0.3' mvn spring-boot:run
-// -Dspring-boot.run.arguments="--SPRING_AI_GOOGLE_GENAI_API_KEY=AIzaSyB0SNs7-XTl_EWM2mkenEL1zGeOnxH3OE0"
