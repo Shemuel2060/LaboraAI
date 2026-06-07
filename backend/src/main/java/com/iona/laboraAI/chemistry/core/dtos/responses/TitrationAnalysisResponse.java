@@ -1,4 +1,4 @@
-package com.iona.laboraAI.chemistry.core.dtos.response;
+package com.iona.laboraAI.chemistry.core.dtos.responses;
 
 import com.iona.laboraAI.system.common.dtos.response.ExperimentResponse;
 
@@ -9,7 +9,8 @@ import lombok.NoArgsConstructor;
 import lombok.experimental.SuperBuilder;
 
 /**
- * Specialized response for Titration analysis, extending the generic ExperimentResponse.
+ * Specialized response for Titration analysis, extending the generic
+ * ExperimentResponse.
  */
 @Data
 @NoArgsConstructor
